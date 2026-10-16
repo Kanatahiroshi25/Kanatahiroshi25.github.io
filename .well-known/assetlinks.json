@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.athana.player",
+        "sha256_cert_fingerprints": ["DA:F4:A7:54:D8:F7:48:B6:E7:25:87:6D:94:6D:09:0D:C1:1F:93:3A:76:CE:77:7F:72:FE:9F:81:1F:07:93:5E"]
+      }
+    }]
